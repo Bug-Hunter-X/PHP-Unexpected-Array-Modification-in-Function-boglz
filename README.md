@@ -1,0 +1,2 @@
+# PHP Unexpected Array Modification
+This example demonstrates a common error in PHP where unexpected array modifications can occur when working with functions and arrays. The core issue arises from how PHP handles array arguments, by reference or by value depending on how it is passed.  Understanding this nuance is key to writing robust PHP code.
